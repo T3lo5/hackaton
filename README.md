@@ -32,7 +32,7 @@ Antes de executar a API, verifique se você possui o seguinte instalado:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sua-api.git
+git clone https://github.com/T3lo5/hackaton
 ```
 2. Acesse a pasta do projeto no terminal e execute os seguintes comandos para instalar as dependências necessárias ao projeto
     
